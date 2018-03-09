@@ -53,3 +53,6 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 
 gem 'activemodel-serializers-xml'
+gem 'webpacker', '~> 2.0'
+
+#gem 'react_on_rails', '~> 9.0.0.beta.12'
